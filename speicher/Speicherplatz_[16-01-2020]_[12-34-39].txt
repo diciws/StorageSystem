@@ -1,0 +1,6 @@
+Speicherplatz_[16-01-2020]_[12-34-39]
+ 
+Festplatte C: 217,86 / 465,27 GByte
+Festplatte Z: 27,35 / 5 GByte
+Festplatte Z: 27,35 / 5 GByte
+ 
